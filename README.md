@@ -11,7 +11,7 @@ Ana giriş noktası: `Arayuz.py`
 - [Çalıştırma](#çalıştırma)
 - [Kullanım](#kullanım)
 - [Sorun Giderme](#sorun-giderme)
-- [Lisans](#lisans)
+
 
 ## Özellikler
 - Temel İşlemler (Hafta 1)
@@ -108,7 +108,7 @@ Main entry point: `Arayuz.py`
 - [Run](#run)
 - [Usage](#usage)
 - [Troubleshooting](#troubleshooting)
-- [License](#license)
+
 
 ## Features
 - Basic Operations (Week 1)
